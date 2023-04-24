@@ -60,7 +60,7 @@
 		// Title Bar ---
 		"titleBar.activeBackground": "#140e14",
 		"titleBar.inactiveBackground": "#140e14",
-		"titleBar.border": "#000",
+		// "titleBar.border": "#000",
 		"titleBar.activeForeground": "#E2D5C2",
 		"titleBar.inactiveForeground": "#E2D5C2",
 		// Terminal ---
@@ -98,7 +98,11 @@
 		// Git
 		"gitDecoration.modifiedResourceForeground": "#e5b68d",
 		"gitDecoration.untrackedResourceForeground": "#b8f1c7",
-		"gitDecoration.addedResourceForeground": "#c96e9a"
+		"gitDecoration.addedResourceForeground": "#c96e9a",
+		// Scrollbar
+		"scrollbar.shadow": "#140e14",
+		"scrollbarSlider.background": "#333",
+		"editorOverviewRuler.border": "#140e14",
 	},
 	"tokenColors": [
 		{
