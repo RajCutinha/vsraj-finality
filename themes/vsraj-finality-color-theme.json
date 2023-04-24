@@ -103,6 +103,15 @@
 		"scrollbar.shadow": "#140e14",
 		"scrollbarSlider.background": "#333",
 		"editorOverviewRuler.border": "#140e14",
+		// Widget
+		"editorWidget.background": "#140e14",
+		"editorWidget.foreground": "#fefefe",
+		"editorWidget.border": "#140e14",
+		"widget.shadow": "#fefefe0f",
+		"input.foreground": "#fefefe",
+		"input.background": "#333",
+		"input.placeholderForeground": "#fefefe",
+		"icon.foreground": "#fefefe",
 	},
 	"tokenColors": [
 		{
