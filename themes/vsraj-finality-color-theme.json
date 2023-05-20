@@ -2,6 +2,7 @@
 	"name": "vsraj-finality",
 	"type": "dark",
 	"colors": {
+		"foreground": "#fefefe",
 		// Default Colors ---
 		"editor.background": "#140e14",
 		"editor.foreground": "#fefefe",
